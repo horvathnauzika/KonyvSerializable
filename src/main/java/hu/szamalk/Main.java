@@ -52,7 +52,6 @@ public class Main {
         }
     }
 
-
     private static void egyKonyv() {
         ArrayList<String> szerzok = new ArrayList<>();
         szerzok.add("JK Rowling");
@@ -63,8 +62,6 @@ public class Main {
             throw new RuntimeException(e);
         }
     }
-
-
 
 
 }
